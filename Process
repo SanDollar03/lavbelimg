@@ -1,0 +1,13 @@
+#仮想環境作成⇒アクティベート
+
+python -m venv labelimg
+labelimg\scripts\activate
+
+#ライブラリのインストール
+
+pip install labelImg
+pip install setuptools
+
+#LabelImgの起動
+
+labelImg
