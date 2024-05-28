@@ -5,6 +5,7 @@ labelimg\scripts\activate
 #ライブラリのインストール
 pip install labelImg
 pip install setuptools
+pip install ultralytics
 
 #LabelImgの起動
 labelImg
